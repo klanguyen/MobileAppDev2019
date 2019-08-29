@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5099108C-0DD6-4FFE-89FE-6750476EE7A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp.iOS/Resources/LaunchScreen.storyboard">
+    <Files>
+      <File FileName="AwesomeApp/MainPage.xaml.cs" Line="25" Column="1" />
+      <File FileName="AwesomeApp/MainPage.xaml" />
+      <File FileName="AwesomeApp.iOS/Resources/LaunchScreen.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AwesomeApp" expanded="True">
+            <Node name="AwesomeApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="AwesomeApp.iOS" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="LaunchScreen.storyboard" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5096E70E-AA4A-43AF-BDAB-D17165EA0FC2" />
+</Properties>

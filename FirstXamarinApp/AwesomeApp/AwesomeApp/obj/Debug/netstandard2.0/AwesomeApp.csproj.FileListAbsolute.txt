@@ -1,0 +1,12 @@
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csprojAssemblyReference.cache
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/FirstXamarinApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb
