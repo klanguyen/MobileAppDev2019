@@ -1,0 +1,12 @@
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/Notes.csprojAssemblyReference.cache
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/trinhnguyen/Desktop/OneDrive - Waukesha County Technical College/MobileAppDev/HW3/Notes/Notes/obj/Debug/netstandard2.0/Notes.pdb
