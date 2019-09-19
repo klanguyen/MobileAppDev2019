@@ -1,0 +1,12 @@
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/bin/Debug/netstandard2.0/ThreeButtonsApp.deps.json
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/bin/Debug/netstandard2.0/ThreeButtonsApp.dll
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/bin/Debug/netstandard2.0/ThreeButtonsApp.pdb
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/ThreeButtonsApp.csprojAssemblyReference.cache
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/ThreeButtonsApp.csproj.CoreCompileInputs.cache
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/ThreeButtonsApp.AssemblyInfoInputs.cache
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/ThreeButtonsApp.AssemblyInfo.cs
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/ThreeButtonsApp.dll
+/Users/trinhnguyen/Projects/ThreeButtonsApp/ThreeButtonsApp/obj/Debug/netstandard2.0/ThreeButtonsApp.pdb

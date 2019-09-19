@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0463F1DD-4221-4FC3-8D14-0FC2FBEE7673}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThreeButtonsApp/MainPage.xaml">
+    <Files>
+      <File FileName="ThreeButtonsApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ThreeButtonsApp/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThreeButtonsApp" expanded="True">
+            <Node name="ThreeButtonsApp" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ThreeButtonsApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5096E70E-AA4A-43AF-BDAB-D17165EA0FC2" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ThreeButtonsApp.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
